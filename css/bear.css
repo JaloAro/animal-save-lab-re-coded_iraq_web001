@@ -22,12 +22,12 @@ html {
 }
 
 
-@media (min-width:300px){
+@media (max-width:600px){
   
   #bear {
   position: absolute;
   top: 100px;
-  right:1000px;
+  right:500px;
 }
   
 }
