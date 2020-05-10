@@ -11,6 +11,12 @@ html {
 /* Write your solution here */
 
 
-@media (min-width:406px). {
+@media (min-width:406px) and (max-width:1170px){
+  
+  #monkey {
+  position: absolute;
+  top: 850px;
+  right: 120px;
+}
   
 }
