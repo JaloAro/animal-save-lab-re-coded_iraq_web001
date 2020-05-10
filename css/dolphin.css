@@ -29,6 +29,7 @@ html {
   top: 400px;
   right: 0;
   transform: rotatex(90deg);
+  transition: ease 3s;
 }
 
   
