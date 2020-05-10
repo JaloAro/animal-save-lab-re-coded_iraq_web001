@@ -28,7 +28,7 @@ html {
   position: absolute;
   top: 400px;
   right: 0;
-  transform: rotatex(90deg);
+  transform: rotate(90deg);
   transition: ease 3s;
 }
 
