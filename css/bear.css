@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 
 
-@media (min-width:600px){
+@media (min-width:800px){
   
   #bear {
   position: absolute;
@@ -22,7 +22,7 @@ html {
 }
 
 
-@media (max-width:600px){
+@media (max-width:700px){
   
   #bear {
   position: absolute;
