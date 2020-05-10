@@ -24,10 +24,11 @@ html {
 
 @media (min-width:642px) and (max-width:1090px){
   
-  #monkey {
+ #dolphin {
   position: absolute;
-  top: 850px;
-  right: 120px;
+  top: 400px;
+  right: 0;
 }
+
   
 }
